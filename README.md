@@ -2,7 +2,7 @@
 - 👀 I’m interested in Tech & coding.
 - 🌱 I’m currently learning DSA and Web Development.
 - 💞️ I am seeking opportunities to collaborate on diverse projects and I am open to learning new things, regardless of their level of difficulty.
-- 📫 How to reach me through my insta :- sanmalli_official , Linkedin :- sandipmali
+- 📫 How to reach me through my insta :- sandipmalii , Linkedin :- sandipmali
 
 
 <!---
