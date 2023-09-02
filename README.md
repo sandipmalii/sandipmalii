@@ -1,14 +1,24 @@
 <h1 align="center">Hi 👋, I'm Sandip Mali</h1>
 <h3 align="center">Tech enthusiast and aspiring developer with a passion for DSA and Web Development, seeking collaborative opportunities.Connect with me on Insta & LinkedIn: @sandipmalii.</h3>
 
+- 🔭 I’m currently working on **My Portfolio website**
+
+- 🌱 I’m currently learning **web dev and dsa**
+
+- 👯 I’m looking to collaborate on **various web application.**
+
+- 🤝 I’m looking for help with **Web Dev Projects**
+
+- 📫 How to reach me **malisandip021@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sannmalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sannmalli" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sandipmali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandipmali/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sandipmali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandipmali" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/sandipmalii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sandipmalii/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@dimvlogs2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@dimvlogs2" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/malisandip021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/malisandip021" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sandipmali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sandipmali/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/malisandip021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="malisandip021" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sandipmali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandipmali" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/malisandip021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/malisandip021" height="30" width="40" /></a>
 </p>
 
