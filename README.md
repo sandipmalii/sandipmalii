@@ -9,11 +9,11 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Sandip Mali! 
-*Digital Craftsman (Developer / Programmer)*
+*Tech Enthusiast & Aspiring Developer*
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer with strong expertise in Next.js, React.js, Node.js, Express, and Python, along with experience in building APIs and backend systems.</p>
+<p align="left">Passionate about building scalable web apps using Next.js, React.js, Node.js, and Python. Always learning, coding, and open to collaborating on impactful projects.</p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
